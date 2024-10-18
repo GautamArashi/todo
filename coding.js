@@ -14,5 +14,5 @@ function multiply(a ,b,c)
 }
 
 
-const result2=multiply(5,6,7);
+const result2=multiply(5,6,75);
 console.log(result2);
